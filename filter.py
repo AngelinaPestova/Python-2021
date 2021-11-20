@@ -45,6 +45,7 @@ def main():
     img = Image.open(args.input_image)
     block_size = args.block_size
     gradation_amount = args.gradation_amount
+
     res = transform_image(img, block_size, gradation_amount)
     res.save("result_image.jpg")
 
