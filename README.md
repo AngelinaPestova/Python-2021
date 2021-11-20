@@ -20,3 +20,6 @@
 Изначальное изображение | filter.py | old_filter.py | filter_with_filename.py
 :------: | :-----: | :-----: | :-----:
 ![image](https://user-images.githubusercontent.com/49625815/142739045-0ac9f88e-3226-42d7-a18b-89ee27680820.png)|![image](https://user-images.githubusercontent.com/49625815/142739057-714494fe-14ac-4359-a018-000a1d1d4f14.png)|![image](https://user-images.githubusercontent.com/49625815/142739067-c78f9d3d-36d5-46bb-b736-d52f79ef6950.png)|![image](https://user-images.githubusercontent.com/49625815/142739058-0dfa207f-b3a5-45e8-81a1-89558b54b1bc.png)
+## Steps 9-11
+### Результаты запуска doc-тестов в PyCharm:
+![image](https://user-images.githubusercontent.com/49625815/142743136-05a973f8-dc04-422e-bb72-f765aafde916.png)
